@@ -1,0 +1,32 @@
+git to view all the comands to do
+
+config git
+
+git config --globla user.name"your name"
+
+git config --global user.email"E-mail@gmail.com"
+
+git config --list
+
+----------------------------------
+
+Basic commands
+
+git clone <---link--->
+
+git status 
+
+git add <--file name--> 
+or
+git add .  --> adds the total files 
+
+git commit -M "some message"
+
+git push
+or
+git push origin main
+
+----------------------
+
+init commands
+
