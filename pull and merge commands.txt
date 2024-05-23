@@ -1,0 +1,6 @@
+git diff <-Name->
+
+git mearge <-Name->
+
+git pull orgin main
+
