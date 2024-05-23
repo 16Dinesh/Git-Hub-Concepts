@@ -30,3 +30,32 @@ git push origin main
 
 init commands
 
+git init 
+
+git remote add orgin (-Link->)
+
+git remote -v  --> to verify
+
+git branch
+
+git branch -M main  --> to rename the the branch 
+
+git push orgin main 
+
+----------------------
+
+git push --set-upstream orgin main
+or 
+git push -u orgin main
+
+git log 
+ 
+ -----------------------------
+
+ git branch 
+  
+git checkout <-Name->
+
+git checkkout -b <-Name->  --> to new name 
+
+git branch -d <-Name->   to delete the name
