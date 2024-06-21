@@ -1,4 +1,16 @@
-# Git in Vs Code 
-# Commands 
+## *Trek-To-DO* Listing WebSite
 
-# Dinesh
+> FrameWork & DataBase 
+* Node
+* MongoDB
+
+> Modules / Packages used
+---
+* Express 
+* ejs
+* method-Override
+* EJS Mate
+* EJS Mate
+* Joi
+
+> To use, `npm i` in the **Terminal**
